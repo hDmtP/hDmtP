@@ -9,5 +9,5 @@ quotes = {
 }
 
 def choice():
-    ch1 = random.randint(0,4)
+    ch1 = random.randint(0,len(quotes) - 1)
     return (quotes[ch1][random.randint(0, len(quotes[ch1]) - 1)])
