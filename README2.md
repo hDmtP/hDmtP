@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-If u wanna get something done right, do it yourself+2021-11-27 13:19:21.678402+05:30
+If u wanna get something done right, do it yourself+2021-11-27 13:25:29.163217+05:30
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@ If u wanna get something done right, do it yourself+2021-11-27 13:19:21.678402+0
 
 Time      | Score
 :--------------:|:----------------:
-**2021-11-27 13:19:21.678402+05:30** | **31**
+**2021-11-27 13:25:29.163217+05:30** | **31**
