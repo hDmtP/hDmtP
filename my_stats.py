@@ -9,7 +9,7 @@ user = GithubUser('hdmtp')
 contribs = user.contributions()
 
 contribs_2021 = user.contributions(
-    start_date='2021-11-22', end_date=str(date.today()))
+    start_date=str(date.today()), end_date=str(date.today()))
 
 sc = '''
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
@@ -30,7 +30,7 @@ sc = '''
 
 <hr>
 
-Time      | Score
+Time      | Contributions Today
 :--------------:|:----------------:
 ''' + f"**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
 
