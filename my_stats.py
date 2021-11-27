@@ -34,6 +34,6 @@ Time      | Score
 :--------------:|:----------------:
 ''' + f"**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
 
-f = open("README2.md", "w")
+f = open("README.md", "w")
 f.write(sc)
 f.close()
