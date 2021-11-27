@@ -30,7 +30,7 @@ sc = '''
 
 <hr>
 
-Time      | Contributions Today
+Time last updated      | Contributions Today
 :--------------:|:----------------:
 ''' + f"**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
 
