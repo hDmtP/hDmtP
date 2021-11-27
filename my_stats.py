@@ -1,7 +1,20 @@
+from github_contributions import GithubUser
+from datetime import datetime, date
+import pytz
 
+tz_NY = pytz.timezone('Asia/Kolkata')
+datetime_NY = datetime.now(tz_NY)
+
+user = GithubUser('hdmtp')
+contribs = user.contributions()
+
+contribs_2021 = user.contributions(
+    start_date=str(date.today()), end_date=str(date.today()))
+
+sc = '''
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-If u wanna get something done right, do it yourself+2021-11-27 13:50:25.678932+05:30
+''' + f"If u wanna get something done right, do it yourself+{datetime_NY}" + '''
 </h3>
 <br>
 <br>
@@ -19,4 +32,8 @@ If u wanna get something done right, do it yourself+2021-11-27 13:50:25.678932+0
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-27 13:50:25.678932+05:30** | **1**
+''' + f"**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
+
+f = open("README.md", "w")
+f.write(sc)
+f.close()
