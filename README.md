@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Everyone breaks, Elias!"
+"The name's Butcher, your new quartermaster for the duration of the Winter Siege"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 03:17:32.037469+05:30** | **4**
+**2021-11-29 03:29:21.778293+05:30** | **4**
