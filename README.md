@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Come, there is still must to be done"
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 02:46:32.786213+05:30** | **4**
+**2021-11-29 03:01:40.063307+05:30** | **4**
