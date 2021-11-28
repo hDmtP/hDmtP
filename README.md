@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Then we have the Sten. This lightweight SMG is quite the little firecracker, just the ticket for the some close-quarters butchering."
+"Come, there is still must to be done"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 05:17:26.333142+05:30** | **4**
+**2021-11-29 05:29:14.772270+05:30** | **4**
