@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-" All right. Let's top these bastards before they kill the old man."
+"Or you can give us what we want, and we guarantee your safety."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-28 14:18:07.075184+05:30** | **1**
+**2021-11-28 14:30:10.818322+05:30** | **1**
