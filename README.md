@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Die like the RATS you are"
+" Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-28 19:27:27.175192+05:30** | **3**
+**2021-11-28 19:50:21.091606+05:30** | **3**
