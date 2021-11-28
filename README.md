@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"If u wanna get something done right, do it yourself"
+"Comrades, the United States and its allies have slowly consumed that which is dear to us. Our leaders continue to weaken under this threat. It is the MORAL duty of `Perseus` to act when they will not. Soon we will possess an American Nuclear Bomb, the key to unlock their entire Greenlight arsenal. Once we control the green light arsenal we will detonate them all from the safety of Solvetsky"
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-28 13:20:09.097298+05:30** | **1**
+**2021-11-28 13:38:06.453657+05:30** | **1**
