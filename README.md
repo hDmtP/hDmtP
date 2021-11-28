@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" My war ends with you."
+"No, no, no, somethin's wrong. There's way too much activity."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 01:12:29.414307+05:30** | **4**
+**2021-11-29 01:27:23.745923+05:30** | **4**
