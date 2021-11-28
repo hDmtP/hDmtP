@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"С нами бог. Remember - no Russian."
+"I remember...Ahhhh! Vorkuta..."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-28 20:29:28.852677+05:30** | **3**
+**2021-11-28 20:54:49.792079+05:30** | **3**
