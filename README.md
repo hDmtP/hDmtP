@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" We will regroup at the citadel"
+" Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 18:08:50.437972+05:30** | **1**
+**2021-11-29 18:35:34.440577+05:30** | **1**
