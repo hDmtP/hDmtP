@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"This is it... Ready to make history?"
+"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 03:03:57.408944+05:30** | **1**
+**2021-11-30 03:17:36.087877+05:30** | **1**
