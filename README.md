@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"I've destroyed your world piece by piece. It's only a matter of time until I find you."
+" Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 09:12:53.243562+05:30** | **0**
+**2021-11-29 09:27:22.572277+05:30** | **0**
