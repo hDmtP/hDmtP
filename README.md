@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Time to work, soldiers."
+"Turns out you're a lousy shot."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 20:09:30.432746+05:30** | **1**
+**2021-11-29 20:21:31.869931+05:30** | **1**
