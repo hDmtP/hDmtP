@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!"
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 01:50:44.913613+05:30** | **1**
+**2021-11-30 02:11:14.233145+05:30** | **1**
