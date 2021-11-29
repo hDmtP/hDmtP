@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"This is it... Ready to make history?"
+"You must have a deathwish, soldier."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 04:53:34.648689+05:30** | **1**
+**2021-11-30 05:10:44.785240+05:30** | **1**
