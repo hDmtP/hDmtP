@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
+"Then we have the Sten. This lightweight SMG is quite the little firecracker, just the ticket for the some close-quarters butchering."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 03:17:36.087877+05:30** | **1**
+**2021-11-30 03:29:28.197407+05:30** | **1**
