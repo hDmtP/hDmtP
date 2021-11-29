@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Come my friends. 'Tis not too late to seek a newer world."
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 14:54:23.480652+05:30** | **1**
+**2021-11-29 15:12:31.765164+05:30** | **1**
