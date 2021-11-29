@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Or you can give us what we want, and we guarantee your safety."
+" My war ends with you."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 11:29:38.904865+05:30** | **0**
+**2021-11-29 11:45:34.142249+05:30** | **1**
