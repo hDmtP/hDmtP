@@ -14,5 +14,34 @@ quotes = {
 }
 
 def choice():
-    ch1 = random.randint(0,len(quotes) - 1)
-    return (quotes[ch1][random.randint(0, len(quotes[ch1]) - 1)])
+    keys = (list(quotes.keys()))
+
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+    random.shuffle(keys)
+
+    ch = random.choice(keys)
+
+    ch_ch = quotes[ch]
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+    random.shuffle(ch_ch)
+
+    ch_ch_ = random.choice(list(ch_ch))
+
+    return ch_ch_
