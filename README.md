@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Come, there is still must to be done"
+"My name is Viktor Reznov, and I will have my revenge!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-29 05:29:14.772270+05:30** | **4**
+**2021-11-29 06:44:21.423202+05:30** | **0**
