@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"I've destroyed your world piece by piece. It's only a matter of time until I find you."
+" Victory is not measured by losses Farid(_shoots a chopper with FMJ_), its measured by gains"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 13:00:11.815314+05:30** | **0**
+**2021-11-30 13:12:06.676684+05:30** | **0**
