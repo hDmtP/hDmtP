@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You should have stayed in Vorkuta."
+"Comrades, the United States and its allies have slowly consumed that which is dear to us. Our leaders continue to weaken under this threat. It is the MORAL duty of `Perseus` to act when they will not. Soon we will possess an American Nuclear Bomb, the key to unlock their entire Greenlight arsenal. Once we control the green light arsenal we will detonate them all from the safety of Solvetsky"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 02:27:28.080236+05:30** | **3**
+**2021-12-01 02:50:04.407836+05:30** | **3**
