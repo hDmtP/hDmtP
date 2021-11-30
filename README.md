@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
+"Lastly, the GPMG, a light machine gun that can drop an entire squad faster than you can blink, mate."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 07:54:57.995819+05:30** | **0**
+**2021-11-30 08:08:56.131198+05:30** | **0**
