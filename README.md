@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You must have a deathwish, soldier."
+"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 07:28:15.440002+05:30** | **0**
+**2021-11-30 07:54:57.995819+05:30** | **0**
