@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Soap TRUSTED you. I thought I could too. So WHY, IN BLOODY HELL, DOES MAKAROV KNOW YOU?!"
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 23:17:30.851335+05:30** | **3**
+**2021-11-30 23:29:25.328667+05:30** | **3**
