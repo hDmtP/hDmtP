@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Don't see that everyday... You're alright, I suppose."
+" I DECIDE WHAT IS NECESSARY!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 19:11:13.319770+05:30** | **3**
+**2021-11-30 19:27:43.854598+05:30** | **3**
