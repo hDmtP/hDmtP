@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Everyone breaks, Elias!"
+"Where am I? Where's Reznov?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 01:27:35.363137+05:30** | **3**
+**2021-12-01 01:54:23.511561+05:30** | **3**
