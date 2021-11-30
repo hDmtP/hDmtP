@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+"You should have stayed in Vorkuta."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 02:11:36.820995+05:30** | **3**
+**2021-12-01 02:27:28.080236+05:30** | **3**
