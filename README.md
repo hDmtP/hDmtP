@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need."
+" Do NOT trust Shepherd- I say again, DO NOT TRUST SHEPHERD! Soap! GET DOWN!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 11:53:08.492351+05:30** | **0**
+**2021-11-30 12:11:32.525675+05:30** | **0**
