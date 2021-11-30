@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Every man has his weakness. (to his men) Find the girl."
+" We will regroup at the citadel"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-11-30 12:27:31.605648+05:30** | **0**
+**2021-11-30 12:48:01.087331+05:30** | **0**
