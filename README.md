@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Martyr me...for Cordis Die."
+"You know who I am? Then you know what I want."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 03:29:41.375677+05:30** | **7**
+**2021-12-02 03:54:16.173876+05:30** | **7**
