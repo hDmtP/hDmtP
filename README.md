@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" The package is aboard a medium freighter. Estonian registration number 52775. There is a small crew and security detail onboard."
+" The healthy human mind doesn't wake up in the morning thinking that this is its last day on earth. But I think that's a luxury, not a curse. Knowing you're close to the end is a kind of freedom. Good time to take... inventory. Outgunned. Outnumbered. Out of our minds. On a suicide mission. But the sand and rocks here stained with thousands of years of warfare, they will remember us. For this. Because out of all our vast array of nightmares, this is the one we choose for ourselves. We go forward like a breath exhaled from the Earth. With vigor in our hearts and one goal in sight: We. Will. Kill him."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 14:37:47.651024+05:30** | **0**
+**2021-12-01 15:00:28.709350+05:30** | **0**
