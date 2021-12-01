@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"The name's Butcher, your new quartermaster for the duration of the Winter Siege"
+"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 01:55:49.688450+05:30** | **7**
+**2021-12-02 02:11:48.398328+05:30** | **7**
