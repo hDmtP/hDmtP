@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" What's the matter? You look like you've just seen a ghost."
+"No, no, no, somethin's wrong. There's way too much activity."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 02:50:05.003804+05:30** | **7**
+**2021-12-02 03:04:33.563169+05:30** | **7**
