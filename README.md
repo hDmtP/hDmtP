@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Or you can give us what we want, and we guarantee your safety."
+"Your evil has claimed the lives of many good men! No longer!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 20:21:52.369548+05:30** | **7**
+**2021-12-01 20:51:23.940074+05:30** | **7**
