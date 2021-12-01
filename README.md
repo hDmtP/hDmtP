@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
+" The package is aboard a medium freighter. Estonian registration number 52775. There is a small crew and security detail onboard."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 14:20:13.490763+05:30** | **0**
+**2021-12-01 14:37:47.651024+05:30** | **0**
