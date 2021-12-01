@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Well at least the world didn't end. Hit it."
+"No, no, no, somethin's wrong. There's way too much activity."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-01 21:27:29.119479+05:30** | **7**
+**2021-12-01 22:06:42.063887+05:30** | **7**
