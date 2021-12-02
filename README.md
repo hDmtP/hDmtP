@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" The package is aboard a medium freighter. Estonian registration number 52775. There is a small crew and security detail onboard."
+"Comrades, the United States and its allies have slowly consumed that which is dear to us. Our leaders continue to weaken under this threat. It is the MORAL duty of `Perseus` to act when they will not. Soon we will possess an American Nuclear Bomb, the key to unlock their entire Greenlight arsenal. Once we control the green light arsenal we will detonate them all from the safety of Solvetsky"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 14:14:41.599467+05:30** | **0**
+**2021-12-02 14:27:24.545592+05:30** | **0**
