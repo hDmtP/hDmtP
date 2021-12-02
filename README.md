@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
+"Grab some supplies and get off to Paris. They need you there."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 02:00:47.896587+05:30** | **1**
+**2021-12-03 02:17:23.781957+05:30** | **1**
