@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"This is it... Ready to make history?"
+"Or you can give us what we want, and we guarantee your safety."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 08:12:42.817970+05:30** | **0**
+**2021-12-02 08:27:36.955981+05:30** | **0**
