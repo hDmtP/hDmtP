@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Victory is not measured by losses Farid(_shoots a chopper with FMJ_), its measured by gains"
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 16:13:01.756384+05:30** | **0**
+**2021-12-02 16:27:32.930692+05:30** | **0**
