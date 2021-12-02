@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"That was no message....this is a message."
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 03:21:04.005003+05:30** | **1**
+**2021-12-03 03:49:35.524221+05:30** | **1**
