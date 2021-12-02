@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Die like the RATS you are"
+"The name's Butcher, your new quartermaster for the duration of the Winter Siege"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 12:58:00.888157+05:30** | **0**
+**2021-12-02 13:10:17.985754+05:30** | **0**
