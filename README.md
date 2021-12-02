@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" I DECIDE WHAT IS NECESSARY!"
+" My war ends with you."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 19:29:22.827573+05:30** | **0**
+**2021-12-02 19:52:15.583182+05:30** | **0**
