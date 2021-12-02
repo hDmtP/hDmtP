@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You tried to make me KILL MY OWN PRESIDENT!"
+"For Zakhaev."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 17:01:27.464228+05:30** | **0**
+**2021-12-02 17:17:42.324181+05:30** | **0**
