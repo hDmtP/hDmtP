@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Turns out you're a lousy shot."
+"Just when I thought I'd be gettin' back to the fight, you show up looking like a kid in a sweet shop. Take your pick and get a move on!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 23:59:27.268791+05:30** | **1**
+**2021-12-03 00:19:49.972053+05:30** | **1**
