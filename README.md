@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Oi! Quit while you're still breathin'."
+"You tried to make me KILL MY OWN PRESIDENT!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-02 16:49:25.871422+05:30** | **0**
+**2021-12-02 17:01:27.464228+05:30** | **0**
