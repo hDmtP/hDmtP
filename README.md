@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"The men and I had fought through the most bitter of winters on the Eastern Front, but we were no strangers to the cold. Even now, the blood in my veins chills when I think back to the events of that day... Far, far from home..."
+" You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 11:03:42.050199+05:30** | **0**
+**2021-12-03 11:17:31.434263+05:30** | **0**
