@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" You know our laws, son. You fail to protect your brothers...you join them in death."
+" Martyr me...for Cordis Die."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 11:17:31.434263+05:30** | **0**
+**2021-12-03 11:29:14.866102+05:30** | **0**
