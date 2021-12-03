@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?"
+"Damn it! Why can't you remember!?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 23:36:42.993641+05:30** | **1**
+**2021-12-04 00:04:10.946934+05:30** | **1**
