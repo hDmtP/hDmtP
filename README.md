@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
+"Captain Price - Ад ждет тебя. (Hell awaits you.)"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 09:12:48.604407+05:30** | **0**
+**2021-12-03 09:27:26.989067+05:30** | **0**
