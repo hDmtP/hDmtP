@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
+" Victory is not measured by losses Farid(__shoots a chopper with FMJ__), its measured by gains"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 11:59:04.283651+05:30** | **0**
+**2021-12-03 12:21:00.311784+05:30** | **0**
