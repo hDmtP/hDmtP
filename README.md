@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
+"Grab some supplies and get off to Paris. They need you there."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 15:55:49.041699+05:30** | **1**
+**2021-12-03 16:27:23.443109+05:30** | **1**
