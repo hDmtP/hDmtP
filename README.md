@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You must have a deathwish, soldier."
+"Today, we show the world our true strength. Perhaps it will give you some as well."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 17:17:26.352414+05:30** | **1**
+**2021-12-03 17:29:22.282592+05:30** | **1**
