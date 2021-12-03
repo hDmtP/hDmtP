@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Prisoner 627. I'm coming for you, Makarov."
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 03:29:18.208229+05:30** | **1**
+**2021-12-04 03:53:42.681711+05:30** | **1**
