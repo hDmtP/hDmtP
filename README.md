@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"FUUUUUUUCK!"
+"Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 07:38:39.759763+05:30** | **0**
+**2021-12-03 08:12:27.694172+05:30** | **0**
