@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Captain Price - Ад ждет тебя. (Hell awaits you.)"
+"You must have a deathwish, soldier."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-03 09:27:26.989067+05:30** | **0**
+**2021-12-03 10:00:53.100323+05:30** | **0**
