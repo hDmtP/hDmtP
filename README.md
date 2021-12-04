@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Or you can give us what we want, and we guarantee your safety."
+"Damn it! Why can't you remember!?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 10:27:02.266579+05:30** | **0**
+**2021-12-04 10:51:10.488261+05:30** | **0**
