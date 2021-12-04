@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Damn it! Why can't you remember!?"
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 23:19:46.457170+05:30** | **12**
+**2021-12-04 23:36:31.639798+05:30** | **12**
