@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Shit, son."
+" It matters not, I am one step ahead of him"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 05:12:09.401052+05:30** | **12**
+**2021-12-05 05:27:30.717865+05:30** | **12**
