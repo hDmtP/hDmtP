@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"It's Weaver. He's burnt."
+" They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 15:55:08.797460+05:30** | **0**
+**2021-12-04 16:12:55.014490+05:30** | **0**
