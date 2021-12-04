@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Die like the RATS you are"
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 13:02:39.183869+05:30** | **0**
+**2021-12-04 13:17:25.662038+05:30** | **0**
