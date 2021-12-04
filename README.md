@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"The name's Butcher, your new quartermaster for the duration of the Winter Siege"
+"Damn it! Why can't you remember!?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-04 23:04:53.495046+05:30** | **12**
+**2021-12-04 23:19:46.457170+05:30** | **12**
