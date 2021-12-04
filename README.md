@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"My name is Viktor Reznov, and I will have my revenge!"
+" Why'd you do it? Where did you get the bomb?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 02:50:27.960509+05:30** | **12**
+**2021-12-05 03:05:32.312193+05:30** | **12**
