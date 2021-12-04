@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need."
+" Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 01:51:01.044091+05:30** | **12**
+**2021-12-05 02:11:45.309375+05:30** | **12**
