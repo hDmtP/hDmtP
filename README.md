@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
+"Damn it! Why can't you remember!?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 19:00:38.813723+05:30** | **16**
+**2021-12-05 19:17:25.770318+05:30** | **16**
