@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Today we reshape the world. Our motherland is lead by cowards and weaklings. In time, the Americans and their NATO puppets will bring the Soviet Union to its knees. We will break the stalemate, then burn them both to the ground. They sleep soundly at night, knowing they put on a good parade - but they lack the will to do what must be done. The superpowers will fall, victims of their own greed and corruption. We will rebuild Greater Russia from the ashes."
+" You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 19:53:37.464895+05:30** | **16**
+**2021-12-05 20:08:35.245152+05:30** | **16**
