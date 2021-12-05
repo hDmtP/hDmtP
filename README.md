@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Damn it! Why can't you remember!?"
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 19:17:25.770318+05:30** | **16**
+**2021-12-05 19:29:38.877531+05:30** | **16**
