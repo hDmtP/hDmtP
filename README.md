@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Fuck! Okay...Me! Do it... DO IT!!!"
+"This is it... Ready to make history?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 02:10:48.005180+05:30** | **20**
+**2021-12-06 02:27:42.512797+05:30** | **20**
