@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Your evil has claimed the lives of many good men! No longer!"
+" Why'd you do it? Where did you get the bomb?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 23:03:44.127387+05:30** | **20**
+**2021-12-05 23:18:31.206291+05:30** | **20**
