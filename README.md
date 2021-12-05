@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 00:18:09.381541+05:30** | **20**
+**2021-12-06 00:30:02.749212+05:30** | **20**
