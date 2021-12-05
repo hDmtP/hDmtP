@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" You know our laws, son. You fail to protect your brothers...you join them in death."
+"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 20:08:35.245152+05:30** | **16**
+**2021-12-05 20:20:30.737439+05:30** | **16**
