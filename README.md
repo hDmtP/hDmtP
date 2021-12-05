@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Come my friends. 'Tis not too late to seek a newer world."
+"Turns out you're a lousy shot."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 08:35:50.197412+05:30** | **1**
+**2021-12-05 08:59:37.579699+05:30** | **1**
