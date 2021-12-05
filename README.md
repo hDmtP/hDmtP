@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"It's all in your mind, Woods."
+" You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 16:12:31.734398+05:30** | **14**
+**2021-12-05 16:27:30.371616+05:30** | **14**
