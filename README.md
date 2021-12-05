@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Time to work, soldiers."
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 07:46:47.681103+05:30** | **1**
+**2021-12-05 08:19:37.022942+05:30** | **1**
