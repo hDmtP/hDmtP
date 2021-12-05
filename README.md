@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
+" Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-05 20:20:30.737439+05:30** | **16**
+**2021-12-05 20:49:57.831165+05:30** | **16**
