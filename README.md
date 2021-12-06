@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Damn it! Why can't you remember!?"
+" You wouldn't have to look far"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 10:01:11.730475+05:30** | **0**
+**2021-12-06 10:26:56.290265+05:30** | **0**
