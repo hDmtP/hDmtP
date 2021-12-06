@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"What happens here today will change the world forever. Nothing can stop this. Not even you."
+"You tried to make me KILL MY OWN PRESIDENT!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 21:16:33.214892+05:30** | **9**
+**2021-12-06 21:28:21.657231+05:30** | **9**
