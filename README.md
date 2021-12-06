@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Woods! You look like hammered shit!"
+" Everyone breaks, Elias!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-07 03:29:49.581836+05:30** | **9**
+**2021-12-07 03:53:52.203130+05:30** | **9**
