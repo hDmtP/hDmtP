@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"No, no, no, somethin's wrong. There's way too much activity."
+"Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 05:27:26.099023+05:30** | **20**
+**2021-12-06 06:45:38.438381+05:30** | **0**
