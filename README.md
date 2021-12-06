@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"С нами бог. Remember - no Russian."
+"Come, there is still must to be done"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 08:55:24.986363+05:30** | **0**
+**2021-12-06 09:13:07.869523+05:30** | **0**
