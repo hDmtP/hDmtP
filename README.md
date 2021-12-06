@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"FUUUUUUUCK!"
+" I DECIDE WHAT IS NECESSARY!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 13:54:23.642244+05:30** | **0**
+**2021-12-06 14:15:36.296695+05:30** | **0**
