@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" I DECIDE WHAT IS NECESSARY!"
+" You suffer with me!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 22:01:48.926906+05:30** | **9**
+**2021-12-06 22:26:48.280748+05:30** | **9**
