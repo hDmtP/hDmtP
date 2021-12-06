@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"First off, we've intercepted a shipment of Gewehr 43's. I'll give the Krauts one thing, they know how to make a sturdy bloody rifle."
+" My war ends with you."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 12:33:14.878535+05:30** | **0**
+**2021-12-06 12:56:59.114444+05:30** | **0**
