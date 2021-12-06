@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" My war ends with you."
+"Your evil has claimed the lives of many good men! No longer!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 12:56:59.114444+05:30** | **0**
+**2021-12-06 13:10:17.317410+05:30** | **0**
