@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"No, no, no, somethin's wrong. There's way too much activity."
+" We will regroup at the citadel"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 11:08:52.467607+05:30** | **0**
+**2021-12-06 11:20:51.786164+05:30** | **0**
