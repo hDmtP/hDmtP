@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"I see...this is what we are dealing with, brothers. A stubborn old man, hopelessly out of step with the changing world.You too, will change. Are you listening?"
+"FUUUUUUUCK!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 13:22:25.457070+05:30** | **0**
+**2021-12-06 13:54:23.642244+05:30** | **0**
