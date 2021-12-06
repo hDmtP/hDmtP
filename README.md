@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" I DECIDE WHAT IS NECESSARY!"
+"Time to get down to business."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 15:27:26.144946+05:30** | **8**
+**2021-12-06 15:56:17.767536+05:30** | **8**
