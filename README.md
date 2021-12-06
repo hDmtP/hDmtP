@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Come, there is still must to be done"
+" I DECIDE WHAT IS NECESSARY!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-06 15:13:13.125757+05:30** | **8**
+**2021-12-06 15:27:26.144946+05:30** | **8**
