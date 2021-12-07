@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You tried to make me KILL MY OWN PRESIDENT!"
+"Time to get down to business."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-07 23:58:49.259380+05:30** | **2**
+**2021-12-08 00:20:43.910902+05:30** | **2**
