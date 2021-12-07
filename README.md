@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Your evil has claimed the lives of many good men! No longer!"
+"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 00:46:33.688277+05:30** | **2**
+**2021-12-08 00:58:22.619653+05:30** | **2**
