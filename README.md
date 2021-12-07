@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-07 06:48:03.204966+05:30** | **0**
+**2021-12-07 07:45:11.270772+05:30** | **0**
