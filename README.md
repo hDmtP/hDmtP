@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" Martyr me...for Cordis Die."
+"Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-07 13:27:33.152180+05:30** | **0**
+**2021-12-07 13:59:27.476701+05:30** | **0**
