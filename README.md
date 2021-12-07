@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" What's the matter? You look like you've just seen a ghost."
+"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-07 08:19:35.412321+05:30** | **0**
+**2021-12-07 08:36:25.706317+05:30** | **0**
