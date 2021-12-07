@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You suffer with me!"
+"Your evil has claimed the lives of many good men! No longer!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 00:26:23.299498+05:30** | **2**
+**2021-12-08 00:46:33.688277+05:30** | **2**
