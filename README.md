@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 00:58:22.619653+05:30** | **2**
+**2021-12-08 01:10:18.800905+05:30** | **2**
