@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"You think I am mad, but soon, you shall see, that every move, every strike, was meant to bring us to this."
+"It's all in your mind, Woods."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 03:10:59.874298+05:30** | **2**
+**2021-12-08 03:27:34.244615+05:30** | **2**
