@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-" You know our laws, son. You fail to protect your brothers...you join them in death."
+"Goodbye, Captain Price."
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-07 10:52:57.427469+05:30** | **0**
+**2021-12-07 11:09:15.217921+05:30** | **0**
