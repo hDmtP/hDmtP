@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
+"I keep hearing the fucking numbers!"
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-09 01:56:20.432221+05:30** | **21**
+**2021-12-09 02:13:21.030486+05:30** | **21**
