@@ -1,15 +1,13 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
-
-![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"Come my friends. 'Tis not too late to seek a newer world."
+"Come, there is still must to be done"
 </h3>
 <br>
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145095893-faca1889-1dff-4d8e-bc1b-c5b43e7c0dff.gif" align="center">
 </p>
 
 <hr>
@@ -21,4 +19,3 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 15:29:11.691799+05:30** | **13**
