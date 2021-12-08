@@ -3,7 +3,7 @@
 
 ![Tests](https://github.com/hdmtp/hdmtp/actions/workflows/main.yml/badge.svg)
 <h3 align="center" margin=30px>
-"I made the mistake of not confirming the kill five years ago at Baikonur."
+" Everyone breaks, Elias!"
 </h3>
 <br>
 <br>
@@ -21,4 +21,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 11:54:20.425577+05:30** | **1**
+**2021-12-08 12:19:18.620522+05:30** | **1**
