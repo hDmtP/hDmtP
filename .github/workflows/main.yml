@@ -24,7 +24,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Generate README.md file
-        run: python3 my_stats.py
+        run: python3 the_script.py
       - name: Commit and Push new score.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
