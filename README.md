@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Time to get down to business."
+"Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-08 17:02:01.312970+05:30** | **19**
+**2021-12-08 17:17:25.745355+05:30** | **21**
