@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Shepherd is using Site Hotel Bravo. You know where it is. I'll see you in hell."
+"Your evil has claimed the lives of many good men! No longer!"
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-09 23:06:49.444192+05:30** | **75**
+**2021-12-09 23:21:44.803668+05:30** | **75**
