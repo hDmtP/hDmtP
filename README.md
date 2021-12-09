@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Zakhaev's son, commander of the Ultranationalist forces in the field. Rotten apple doesn't fall far from the tree. The Loyalist, Kamarov, has got a location on the kid."
+"The men and I had fought through the most bitter of winters on the Eastern Front, but we were no strangers to the cold. Even now, the blood in my veins chills when I think back to the events of that day... Far, far from home..."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-10 05:11:10.684446+05:30** | **75**
+**2021-12-10 05:27:32.255506+05:30** | **75**
