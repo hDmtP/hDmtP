@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
+"Well at least the world didn't end. Hit it."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-10 00:29:47.021582+05:30** | **75**
+**2021-12-10 00:49:32.630153+05:30** | **75**
