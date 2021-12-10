@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"My war ends with you."
+"It doesn't take the most powerful nations on Earth to create the next global conflict. Just the will of a single man."
 </h3>
 <br>
 <br>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-10 07:37:04.159653+05:30** | **0**
+**2021-12-10 08:12:15.422616+05:30** | **0**
