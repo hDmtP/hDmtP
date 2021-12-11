@@ -1,13 +1,13 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"If u wanna get something done right, do it yourself"
+"Do NOT trust Shepherd- I say again, DO NOT TRUST SHEPHERD! Soap! GET DOWN!"
 </h3>
 <br>
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/145095893-faca1889-1dff-4d8e-bc1b-c5b43e7c0dff.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
 </p>
 
 <hr>
@@ -19,4 +19,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-11 06:43:47.276938+05:30** | **0**
+**2021-12-11 07:38:45.065755+05:30** | **0**
