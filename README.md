@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"How many times?! Steiner was at Rebirth Island! We had to kill Steiner!"
+"Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-11 16:12:47.355785+05:30** | **4**
+**2021-12-11 16:27:28.298768+05:30** | **4**
