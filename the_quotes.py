@@ -361,3 +361,6 @@ def choice_gif():
     return gifs[key][value]
 
 print(f"key: {key}\n\nvalue: {value}\n\nlen(quotes[key]): {len(quotes[key])}\n\nlen(gifs[key]): {len(gifs[key])}\n\n\n")
+
+assert len(quotes[key]) == len(gifs[key])
+print("everything okay!!")
