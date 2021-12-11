@@ -3,7 +3,8 @@ import random
 quotes = {
     0: ["If u wanna get something done right, do it yourself",
         "You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!",
-        "Look at what you did. [Rorke kicks Hesh] You're good. You would have been a hell of a Ghost. But that's not gonna happen. There ain't gonna be any Ghosts... We're gonna destroy them together.", " Everyone breaks, Elias!",
+        "Look at what you did. [Rorke kicks Hesh] You're good. You would have been a hell of a Ghost. But that's not gonna happen. There ain't gonna be any Ghosts... We're gonna destroy them together.",
+        "Everyone breaks, Elias!",
         "Shit, son.",
         "You know our laws, son. You fail to protect your brothers...you join them in death.",
         "I am Gabriel Rorke. I have been trained by your Government to be a weapon. Trained to kill and destroy. All in the name of Liberty and Justice. Even surrender my very life in service to your country. But I am not one of you. The \"Just\" have turned their backs and become deaf to your cries. Who, then will show them justice? Who will show you the Liberty they have promised? The weapon they have created will be their undoing. But do not fear this. Do not fear me. It is only natural. Like the collapse of Rome, your cities will crumble and there will be great sorrow. But from the ashes of this diseased metropolis, a rebirth will occur. It will be paid for in blood and steel. Liberty must be restored. I am Gabriel Rorke, and I am here to show you the true meaning of justice.",
@@ -111,7 +112,8 @@ quotes = {
         "Grab some supplies and get off to Paris. They need you there.",
         "Just when I thought I'd be gettin' back to the fight, you show up looking like a kid in a sweet shop. Take your pick and get a move on!",
         "Looking to uh, blow up a bridge? Take out a supply depot? Reclaim a city? I've got what you need.",
-        "You must have a deathwish, soldier.", "Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition.",
+        "You must have a deathwish, soldier.",
+        "Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition.",
         "Don't see that everyday... You're alright, I suppose.",
         "I'm Captain Butcher of the SOE. Well, retired Captain Butcher these days. I was in charge of the SOE during the war. Ever heard of Vanguard?"]
         
@@ -123,6 +125,8 @@ gifs = {
     	"https://user-images.githubusercontent.com/65482473/145182543-51310f42-4e9f-4da1-8265-dcfed689e133.gif",
 
         "https://user-images.githubusercontent.com/65482473/145571417-44be4661-add9-474f-9e02-f9f7d0694bf6.gif",
+
+        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
 
         "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
 
@@ -341,6 +345,8 @@ gifs = {
         "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
 
         "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+
+        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif"
         ],
 
 }
@@ -353,3 +359,5 @@ def choice():
 
 def choice_gif():
     return gifs[key][value]
+
+print(f"key: {key}\n\nvalue: {value}\n\nlen(quotes[key]): {len(quotes[key])}\n\nlen(gifs[key]): {len(gifs[key])}\n\n\n")
