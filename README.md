@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"All right. Let's top these bastards before they kill the old man."
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-11 14:53:09.008550+05:30** | **4**
+**2021-12-11 15:12:07.589273+05:30** | **4**
