@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"We will regroup at the citadel"
+"Captain Price - Ад ждет тебя. (Hell awaits you.)"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-12 01:17:37.866205+05:30** | **9**
+**2021-12-12 01:29:30.129164+05:30** | **9**
