@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Today, we show the world our true strength. Perhaps it will give you some as well."
+"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-12 04:27:27.491712+05:30** | **9**
+**2021-12-12 04:52:48.866902+05:30** | **9**
