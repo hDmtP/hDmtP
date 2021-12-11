@@ -20,6 +20,9 @@ sc = '''
 ''' + f"\"{choice()}\"" + '''
 </h3>
 <br>
+
+![Tests](https://github.com/hDmtP/hDmtP/actions/workflows/main.yml/badge.svg)
+
 <br>
 <br>
 <p align="center">
