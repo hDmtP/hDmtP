@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Come my friends. 'Tis not too late to seek a newer world."
+"We will regroup at the citadel"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-13 04:52:52.046848+05:30** | **3**
+**2021-12-13 05:10:30.091661+05:30** | **3**
