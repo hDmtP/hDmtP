@@ -4,7 +4,7 @@ import pytz
 from the_quotes import *
 
 tz_NY = pytz.timezone('Asia/Kolkata')
-datetime_NY = datetime.now(tz_NY)
+datetime_NY = str(datetime.now(tz_NY))
 
 
 user = GithubUser('hdmtp')
@@ -36,9 +36,9 @@ sc = '''
 
 <hr>
 
-Time last updated      | Contributions Today
+Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:
-''' + f"**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
+''' + f"**{datetime_NY[:10]}**| **{datetime_NY[11:26]}** | **{sum([day.count for day in contribs_2021.days])}**"
 
 f = open("README.md", "w")
 f.write(sc)
