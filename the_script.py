@@ -37,7 +37,7 @@ sc = '''
 <hr>
 
 Today's Date |Time last updated      | Contributions Today
-:--------------:|:----------------:
+:--------------:|:----------------:|:-------------:
 ''' + f"**{datetime_NY[:10]}**| **{datetime_NY[11:26]}** | **{sum([day.count for day in contribs_2021.days])}**"
 
 f = open("README.md", "w")
