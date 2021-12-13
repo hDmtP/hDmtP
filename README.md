@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The men and I had fought through the most bitter of winters on the Eastern Front, but we were no strangers to the cold. Even now, the blood in my veins chills when I think back to the events of that day... Far, far from home..."
+"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Time last updated      | Contributions Today
 :--------------:|:----------------:
-**2021-12-13 16:49:31.520969+05:30** | **0**
+**2021-12-13 17:01:45.371421+05:30** | **0**
