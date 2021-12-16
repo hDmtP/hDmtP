@@ -30,10 +30,10 @@ quotes = {
         "You wouldn't have to look far"],
 
     2: ["This is it... Ready to make history?",
-        "No, no, no, somethin's wrong. There's way too much activity.",
-        "FUUUUUUUCK!",
         "Kravchenko. When I sliced that bastard open, it saved everyone's ass. But he comes to first, BOOM! Welcome to the Hanoi Hilton. Six months later, they shipped me over to Da Nang. And this fucking place made the Hilton look good. We lost 17 in my group. By '72, it was just me. I was not gonna die in a FUCKING SWAMP!!",
-        "Thanks to your old man. He put it all on the line for me... for honor... and friendship."],
+        "No, no, no, somethin's wrong. There's way too much activity.",
+        "Thanks to your old man. He put it all on the line for me... for honor... and friendship.",
+        "FUUUUUUUCK!"],
 
     3: ["Come my friends. 'Tis not too late to seek a newer world.",
         "Martyr me...for Cordis Die.",
@@ -49,7 +49,8 @@ quotes = {
         "Today, my comrades... Vorkuta... BURNS!!!",
         "Die like the RATS you are"],
 
-    5: ["I'd given up hope of ever gettin' out. But Viktor Reznov found a way.",
+    5: ["You tried to make me KILL MY OWN PRESIDENT!",
+        "I'd given up hope of ever gettin' out. But Viktor Reznov found a way.",
         "It's Weaver. He's burnt.",
         "You should have stayed in Vorkuta.",
         "Woods! You look like hammered shit!",
@@ -61,7 +62,6 @@ quotes = {
         "That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears.",
         "I keep hearing the fucking numbers!",
         "You will move without boundries. You will act above the law. You will use any means necessary to stop the wars that are hidden from the world. And if you succeed, you will do so, without any recognition. Because you do not exist.",
-        "You tried to make me KILL MY OWN PRESIDENT!",
         "It's Uncle Woods, son. He'd do it for me.",
         "Turns out you're a lousy shot.",
         "I made the mistake of not confirming the kill five years ago at Baikonur.",
