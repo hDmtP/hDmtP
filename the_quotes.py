@@ -31,9 +31,10 @@ quotes = {
 
     2: ["This is it... Ready to make history?",
         "Kravchenko. When I sliced that bastard open, it saved everyone's ass. But he comes to first, BOOM! Welcome to the Hanoi Hilton. Six months later, they shipped me over to Da Nang. And this fucking place made the Hilton look good. We lost 17 in my group. By '72, it was just me. I was not gonna die in a FUCKING SWAMP!!",
+        "FUUUUUUUCK!",
         "No, no, no, somethin's wrong. There's way too much activity.",
-        "Thanks to your old man. He put it all on the line for me... for honor... and friendship.",
-        "FUUUUUUUCK!"],
+        "Thanks to your old man. He put it all on the line for me... for honor... and friendship."
+        ],
 
     3: ["Come my friends. 'Tis not too late to seek a newer world.",
         "Martyr me...for Cordis Die.",
@@ -177,11 +178,11 @@ gifs = {
 
     2:  ["https://user-images.githubusercontent.com/65482473/146401353-2d94815c-494b-4bdb-934e-14add2f68029.gif",
     
-        "https://user-images.githubusercontent.com/65482473/146401438-422bb353-50e0-428a-ab36-ffe961848718.gif",
+        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
     
         "https://user-images.githubusercontent.com/65482473/146401535-faa0671a-9ecb-4c72-a79c-599b2226ac93.gif",
     
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/146401438-422bb353-50e0-428a-ab36-ffe961848718.gif",
     
         "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif"
         ],
