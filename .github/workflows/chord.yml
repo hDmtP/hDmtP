@@ -1,5 +1,3 @@
-run: date +"%d/%m/%y %T"
-
 name: README build
 
 on:
@@ -32,3 +30,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: 'main' #optional defaults to master
+          
+      - name: show the datetime of the server during the execution
+        run: date +"%d/%m/%y %T"
