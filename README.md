@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition."
+"You must have a deathwish, soldier."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-19**| **22:01:02.133117** | **0**
+**2021-12-19**| **22:34:59.968828** | **0**
