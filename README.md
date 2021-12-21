@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
+"Grab some supplies and get off to Paris. They need you there."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-21**| **18:43:09.842136** | **0**
+**2021-12-21**| **19:08:27.105378** | **0**
