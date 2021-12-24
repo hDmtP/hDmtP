@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"It doesn't take the most powerful nations on Earth to create the next global conflict. Just the will of a single man."
+"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2021-12-25**| **04:53:34.417956** | **20**
+**2021-12-25**| **05:11:28.825112** | **20**
