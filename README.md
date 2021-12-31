@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
+"Or you can give us what we want, and we guarantee your safety."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-01**| **02:12:57.385294** | **3**
+**2022-01-01**| **02:28:07.028948** | **3**
