@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"It doesn't take the most powerful nations on Earth to create the next global conflict. Just the will of a single man."
+"How many times?! Steiner was at Rebirth Island! We had to kill Steiner!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-04**| **05:27:36.006677** | **4**
+**2022-01-04**| **06:49:03.728576** | **0**
