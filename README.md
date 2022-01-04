@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"FUUUUUUUCK!"
+"Time to work, soldiers."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/146401535-faa0671a-9ecb-4c72-a79c-599b2226ac93.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145710450-4aafda68-e046-4814-bd6c-3a73f6959b0e.gif" align="center">
 </p>
 
 <hr>
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-05**| **02:18:44.350447** | **2**
+**2022-01-05**| **02:29:33.050662** | **2**
