@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+"Come, there is still must to be done"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-05**| **15:27:38.328811** | **0**
+**2022-01-05**| **15:56:24.047690** | **0**
