@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Or you can give us what we want, and we guarantee your safety."
+"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-06**| **08:57:35.900811** | **1**
+**2022-01-06**| **09:16:17.915073** | **1**
