@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+"Grab some supplies and get off to Paris. They need you there."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-08**| **23:06:43.123504** | **10**
+**2022-01-08**| **23:21:12.215422** | **10**
