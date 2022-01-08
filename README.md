@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Damn it! Why can't you remember!?"
+"Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-08**| **15:56:06.862402** | **6**
+**2022-01-08**| **16:14:12.092205** | **6**
