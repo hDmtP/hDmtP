@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"That young kid didn't make it....I swear to God that Woods was crying but he never let us see no tears."
+"Shit, son."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145676647-caf58524-d42c-4b15-a30a-161882bbf491.gif" align="center">
 </p>
 
 <hr>
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-11**| **08:28:06.378772** | **0**
+**2022-01-11**| **08:56:42.991889** | **0**
