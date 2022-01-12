@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"FUUUUUUUCK!"
+"What's the matter? You look like you've just seen a ghost."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/146401535-faa0671a-9ecb-4c72-a79c-599b2226ac93.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145710429-d716c076-e6de-446e-ab59-00f61b965278.gif" align="center">
 </p>
 
 <hr>
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-13**| **03:29:23.534466** | **3**
+**2022-01-13**| **03:54:51.820030** | **3**
