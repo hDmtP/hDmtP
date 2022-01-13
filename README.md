@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"That was no message....this is a message."
+"Jason Hudson, CIA. We're here to talk about your encounter with Russians in Laos. We got word a defector might be in play."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-13**| **06:52:18.615575** | **0**
+**2022-01-13**| **07:56:29.931744** | **0**
