@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The healthy human mind doesn't wake up in the morning thinking that this is its last day on earth. But I think that's a luxury, not a curse. Knowing you're close to the end is a kind of freedom. Good time to take... inventory. Outgunned. Outnumbered. Out of our minds. On a suicide mission. But the sand and rocks here stained with thousands of years of warfare, they will remember us. For this. Because out of all our vast array of nightmares, this is the one we choose for ourselves. We go forward like a breath exhaled from the Earth. With vigor in our hearts and one goal in sight: We. Will. Kill him."
+"Today we reshape the world. Our motherland is lead by cowards and weaklings. In time, the Americans and their NATO puppets will bring the Soviet Union to its knees. We will break the stalemate, then burn them both to the ground. They sleep soundly at night, knowing they put on a good parade - but they lack the will to do what must be done. The superpowers will fall, victims of their own greed and corruption. We will rebuild Greater Russia from the ashes."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-15**| **14:16:55.845861** | **2**
+**2022-01-15**| **14:28:57.895247** | **2**
