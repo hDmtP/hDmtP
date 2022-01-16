@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Reznov's dead, Mason! Do you hear me!? HE'S DEAD!"
+"Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-16**| **09:15:44.655191** | **0**
+**2022-01-16**| **09:27:44.970789** | **0**
