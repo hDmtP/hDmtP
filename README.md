@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
+"Everyone breaks, Elias!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/146401238-dbfab9d8-0103-4eed-a3ba-0a4b5e97225f.gif" align="center">
 </p>
 
 <hr>
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-22**| **15:20:31.926849** | **10**
+**2022-01-22**| **15:50:09.245277** | **10**
