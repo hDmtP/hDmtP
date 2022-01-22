@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Grab some supplies and get off to Paris. They need you there."
+"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-22**| **11:19:40.931262** | **0**
+**2022-01-22**| **11:36:31.244539** | **0**
