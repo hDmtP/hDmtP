@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-22**| **18:29:12.125410** | **10**
+**2022-01-22**| **18:52:57.969384** | **10**
