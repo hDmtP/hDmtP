@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
+"Do NOT trust Shepherd- I say again, DO NOT TRUST SHEPHERD! Soap! GET DOWN!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-23**| **19:53:17.104568** | **4**
+**2022-01-23**| **20:07:30.232303** | **4**
