@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Today we reshape the world. Our motherland is lead by cowards and weaklings. In time, the Americans and their NATO puppets will bring the Soviet Union to its knees. We will break the stalemate, then burn them both to the ground. They sleep soundly at night, knowing they put on a good parade - but they lack the will to do what must be done. The superpowers will fall, victims of their own greed and corruption. We will rebuild Greater Russia from the ashes."
+"How many times?! Steiner was at Rebirth Island! We had to kill Steiner!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-01-30**| **02:59:59.943459** | **1**
+**2022-01-30**| **03:12:15.065563** | **1**
