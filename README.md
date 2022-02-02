@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You must have a deathwish, soldier."
+"Every man has his weakness. (to his men) Find the girl."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-02**| **21:27:34.406267** | **1**
+**2022-02-02**| **22:03:24.111354** | **1**
