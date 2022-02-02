@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"The symbols you have always looked to for strength, are smoldering in ruins. This is what your greed has brought you."
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-02**| **11:07:29.391752** | **1**
+**2022-02-02**| **11:19:38.665836** | **1**
