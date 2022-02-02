@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"No, no, no, somethin's wrong. There's way too much activity."
+"You're right, Elias, I'm not a Ghost... I'm the man that hunts them, and sends them back to the other side!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/146401438-422bb353-50e0-428a-ab36-ffe961848718.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145182543-51310f42-4e9f-4da1-8265-dcfed689e133.gif" align="center">
 </p>
 
 <hr>
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-02**| **14:52:33.103980** | **1**
+**2022-02-02**| **15:09:03.983641** | **1**
