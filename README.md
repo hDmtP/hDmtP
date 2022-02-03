@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Lastly, the GPMG, a light machine gun that can drop an entire squad faster than you can blink, mate."
+"Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-03**| **09:05:09.894851** | **1**
+**2022-02-03**| **09:17:25.053503** | **1**
