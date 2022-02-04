@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Kravchenko. When I sliced that bastard open, it saved everyone's ass. But he comes to first, BOOM! Welcome to the Hanoi Hilton. Six months later, they shipped me over to Da Nang. And this fucking place made the Hilton look good. We lost 17 in my group. By '72, it was just me. I was not gonna die in a FUCKING SWAMP!!"
+"Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?"
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-04**| **21:29:31.995391** | **6**
+**2022-02-04**| **22:00:02.792882** | **6**
