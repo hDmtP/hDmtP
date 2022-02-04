@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Thanks to your old man. He put it all on the line for me... for honor... and friendship."
+"You will move without boundries. You will act above the law. You will use any means necessary to stop the wars that are hidden from the world. And if you succeed, you will do so, without any recognition. Because you do not exist."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-04**| **07:56:32.585995** | **4**
+**2022-02-04**| **08:08:27.272227** | **4**
