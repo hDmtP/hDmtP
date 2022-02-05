@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"How many times?! Steiner was at Rebirth Island! We had to kill Steiner!"
+"Russia will take all of Europe, even if it must stand upon a pile of ashes. I want the launch codes, Mr. President."
 </h3>
 <br>
 
@@ -22,4 +22,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-06**| **05:07:04.969296** | **2**
+**2022-02-06**| **05:29:39.764785** | **2**
