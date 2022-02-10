@@ -141,25 +141,25 @@ gifs = {
         ],
 
 
-    1: ["https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+    1: ["https://user-images.githubusercontent.com/65482473/153423543-58f8ef09-79db-4712-b62d-6279ad5116af.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153423700-d096930d-b353-42bc-a3c9-7238a7d4f7b9.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153423810-d2aeb2e4-8912-4f21-a2dc-d957951d4237.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153423922-20f9e239-303b-4821-8c31-887fb3c521cf.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153424059-238a14bd-8f4a-437c-9725-b6b5434febb0.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153424147-86838716-a813-4872-9064-a79ff0954e0d.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153424224-7399846c-8704-40aa-a28e-c800c95fa2e4.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153424459-aa4bf9d6-512c-479f-827e-ea15ce43f1b1.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153424540-e25ca93c-97d3-4e79-8d53-77a0b36dcd4b.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153424733-321e8137-1dbd-422b-a2b9-f9a04b664afe.gif",
         
         "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
         
