@@ -161,19 +161,19 @@ gifs = {
         
         "https://user-images.githubusercontent.com/65482473/153424733-321e8137-1dbd-422b-a2b9-f9a04b664afe.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153600635-2c404723-88ed-4735-85bd-86f202209973.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153600698-4125ed95-01f6-4ed4-b0a3-862b8efae4ef.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153600776-00ef96d6-580e-4a32-89b2-b683ebc7b379.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153600836-c8eff82a-8bc6-4ff0-b71d-14cf7ae376ed.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153600905-fdae62f6-62de-4906-bc70-22ed182aa9fa.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/153600963-4c7f540c-58a1-4008-9f5e-4b731f7ae0eb.gif",
         
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif"
+        "https://user-images.githubusercontent.com/65482473/153601021-af144f8a-6252-44c1-8869-70c4ae432cac.gif"
         ],
 
     2:  ["https://user-images.githubusercontent.com/65482473/146401353-2d94815c-494b-4bdb-934e-14add2f68029.gif",
