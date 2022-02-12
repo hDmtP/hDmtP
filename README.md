@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You suffer with me!"
+"Why'd you do it? Where did you get the bomb?"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153223945-04669174-0fe4-4463-9b45-7aa8f746b6fe.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153424147-86838716-a813-4872-9064-a79ff0954e0d.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-12**| **09:02:28.766775** | **1**
+**2022-02-12**| **09:17:23.403284** | **1**
