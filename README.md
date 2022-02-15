@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Shit, son."
+"Die like the RATS you are"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/145676647-caf58524-d42c-4b15-a30a-161882bbf491.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/152934495-a704faa2-2d0b-45e1-a9b4-d0f1f0003f60.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-15**| **14:52:47.837849** | **2**
+**2022-02-15**| **15:09:22.306929** | **2**
