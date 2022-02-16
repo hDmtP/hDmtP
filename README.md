@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You tried to make me KILL MY OWN PRESIDENT!"
+"Jason Hudson, CIA. We're here to talk about your encounter with Russians in Laos. We got word a defector might be in play."
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-16**| **21:35:32.110583** | **3**
+**2022-02-16**| **22:11:14.422293** | **3**
