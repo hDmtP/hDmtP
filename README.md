@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"So Makarov is the prize."
+"Soap TRUSTED you. I thought I could too. So WHY, IN BLOODY HELL, DOES MAKAROV KNOW YOU?!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/154327933-6a0d3189-dcc9-4523-8c36-aa89197a4a32.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153600776-00ef96d6-580e-4a32-89b2-b683ebc7b379.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-17**| **04:07:25.906693** | **4**
+**2022-02-17**| **04:19:29.254790** | **4**
