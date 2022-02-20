@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Come, there is still must to be done"
+"Первый. Уничтожите вражескую надежду на победу. (First. Destroy the enemy's hope for victory.), Второй. Используйте все в своих интересах. (Second. Use everything to your advantage.), Третий. Используйте слабости противника. (Third. Take advantage of your enemy's weakness.), Четвёртый. Атакуйте с неожиданной стороны. (Fourth. Attack from the unexpected side.)"
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-20**| **19:20:20.233798** | **144**
+**2022-02-20**| **19:37:13.543488** | **144**
