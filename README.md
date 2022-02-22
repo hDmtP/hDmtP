@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You wouldn't have to look far"
+"The American thought he could deceive us. When they find that body... all of Russia will cry for war."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153601021-af144f8a-6252-44c1-8869-70c4ae432cac.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/154328046-5846b326-fa54-4abf-bc6c-55b2be04c7f1.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-22**| **12:56:46.804673** | **1**
+**2022-02-22**| **13:08:43.634497** | **1**
