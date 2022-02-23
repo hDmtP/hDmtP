@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Then we have the Sten. This lightweight SMG is quite the little firecracker, just the ticket for the some close-quarters butchering."
+"Every man has his weakness. (to his men) Find the girl."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/154328247-d464bb67-3593-4bc4-b607-4a231e761f2a.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-23**| **10:47:33.935585** | **0**
+**2022-02-23**| **10:59:51.533479** | **0**
