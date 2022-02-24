@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Martyr me...for Cordis Die."
+"Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153222929-b45998ee-02cd-4158-b244-25f84b3df644.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153223861-45df2579-77f0-4869-9f81-5fd0c7022e1c.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-25**| **03:01:23.207585** | **1**
+**2022-02-25**| **03:17:33.638968** | **1**
