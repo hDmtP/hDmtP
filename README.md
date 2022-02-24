@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Victory is not measured by losses Farid( *shoots a chopper with FMJ* ), its measured by gains"
+"You did it, Mason! You did what I could not!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153223057-6e9f23ab-3021-482f-a772-1af55c4a791e.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/152934719-6af8ca19-2ae7-4659-8bfc-6b683daf4dc1.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-24**| **18:08:50.279825** | **1**
+**2022-02-24**| **18:33:21.258927** | **1**
