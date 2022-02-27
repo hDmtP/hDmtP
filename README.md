@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Come my friends. 'Tis not too late to seek a newer world."
+"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153222731-3b916d10-c5e7-4ace-80cc-90e195145100.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153423922-20f9e239-303b-4821-8c31-887fb3c521cf.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-02-28**| **03:17:32.597023** | **3**
+**2022-02-28**| **03:29:38.471456** | **3**
