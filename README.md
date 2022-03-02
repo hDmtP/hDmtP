@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"What happens here today will change the world forever. Nothing can stop this. Not even you."
+"Soap TRUSTED you. I thought I could too. So WHY, IN BLOODY HELL, DOES MAKAROV KNOW YOU?!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/154327695-8c785be0-78a0-41d2-8b77-074e5772cc47.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153600776-00ef96d6-580e-4a32-89b2-b683ebc7b379.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-03**| **02:21:14.514346** | **1**
+**2022-03-03**| **02:45:59.931865** | **1**
