@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"We're gonna have one shot to grab the President before he gives up the launch codes and Makarov turns Europe into glass. Once we get boots on the ground, it's going to get lively down there."
+"They've started a bloody countdown! Zakhaev's gonna launch the remaining missiles!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153600836-c8eff82a-8bc6-4ff0-b71d-14cf7ae376ed.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153424459-aa4bf9d6-512c-479f-827e-ea15ce43f1b1.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-03**| **16:14:41.472434** | **0**
+**2022-03-03**| **16:27:47.323325** | **0**
