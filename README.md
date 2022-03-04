@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Первый. Уничтожите вражескую надежду на победу. (First. Destroy the enemy's hope for victory.), Второй. Используйте все в своих интересах. (Second. Use everything to your advantage.), Третий. Используйте слабости противника. (Third. Take advantage of your enemy's weakness.), Четвёртый. Атакуйте с неожиданной стороны. (Fourth. Attack from the unexpected side.)"
+"Time to work, soldiers."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145710450-4aafda68-e046-4814-bd6c-3a73f6959b0e.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-04**| **16:48:47.832411** | **5**
+**2022-03-04**| **17:00:34.966302** | **5**
