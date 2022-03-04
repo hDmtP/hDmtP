@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Ahh... feeling a bit down lately, away from the fight. It's been a while since I've, had a good therapeutic bridge demolition."
+"Right… What the hell kind of name is Soap, eh? How'd a muppet like you pass Selection?"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153423700-d096930d-b353-42bc-a3c9-7238a7d4f7b9.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-05**| **00:28:28.671273** | **8**
+**2022-03-05**| **00:47:13.567670** | **8**
