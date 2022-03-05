@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"Or you can give us what we want, and we guarantee your safety."
+"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-05**| **12:03:51.850431** | **0**
+**2022-03-05**| **12:20:34.620136** | **0**
