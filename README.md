@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"You will move without boundries. You will act above the law. You will use any means necessary to stop the wars that are hidden from the world. And if you succeed, you will do so, without any recognition. Because you do not exist."
+"Kravchenko. When I sliced that bastard open, it saved everyone's ass. But he comes to first, BOOM! Welcome to the Hanoi Hilton. Six months later, they shipped me over to Da Nang. And this fucking place made the Hilton look good. We lost 17 in my group. By '72, it was just me. I was not gonna die in a FUCKING SWAMP!!"
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-06**| **12:16:37.483681** | **1**
+**2022-03-06**| **12:28:32.881923** | **1**
