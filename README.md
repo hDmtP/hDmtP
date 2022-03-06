@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"If u wanna get something done right, do it yourself"
+"Shit, son."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/145095893-faca1889-1dff-4d8e-bc1b-c5b43e7c0dff.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145676647-caf58524-d42c-4b15-a30a-161882bbf491.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-06**| **14:52:01.624846** | **1**
+**2022-03-06**| **15:08:39.798169** | **1**
