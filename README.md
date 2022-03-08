@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"All right. Let's top these bastards before they kill the old man."
+"I am Gabriel Rorke. I have been trained by your Government to be a weapon. Trained to kill and destroy. All in the name of Liberty and Justice. Even surrender my very life in service to your country. But I am not one of you. The "Just" have turned their backs and become deaf to your cries. Who, then will show them justice? Who will show you the Liberty they have promised? The weapon they have created will be their undoing. But do not fear this. Do not fear me. It is only natural. Like the collapse of Rome, your cities will crumble and there will be great sorrow. But from the ashes of this diseased metropolis, a rebirth will occur. It will be paid for in blood and steel. Liberty must be restored. I am Gabriel Rorke, and I am here to show you the true meaning of justice."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153424059-238a14bd-8f4a-437c-9725-b6b5434febb0.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145710405-ccb1c679-7bd3-4ece-8a1c-f9490fc13ad1.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-08**| **14:30:26.611776** | **3**
+**2022-03-08**| **14:54:01.997695** | **3**
