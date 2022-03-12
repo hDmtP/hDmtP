@@ -84,7 +84,6 @@ quotes = {
         "Goodbye, Captain Price.",
         "С нами бог. Remember - no Russian.",
         "For Zakhaev." ,
-        "That was no message....this is a message.",
         "Price, one day, you're going to find that cuts both ways.",
         "Shepherd is using Site Hotel Bravo. You know where it is. I'll see you in hell.",
         "Первый. Уничтожите вражескую надежду на победу. (First. Destroy the enemy's hope for victory.), Второй. Используйте все в своих интересах. (Second. Use everything to your advantage.), Третий. Используйте слабости противника. (Third. Take advantage of your enemy's weakness.), Четвёртый. Атакуйте с неожиданной стороны. (Fourth. Attack from the unexpected side.)",
@@ -98,7 +97,8 @@ quotes = {
         "Understand, Yuri: this is only the beginning.",
         "I see...this is what we are dealing with, brothers. A stubborn old man, hopelessly out of step with the changing world.You too, will change. Are you listening?",
         "Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?",
-        "I've destroyed your world piece by piece. It's only a matter of time until I find you."],
+        "I've destroyed your world piece by piece. It's only a matter of time until I find you.",
+        "That was no message....this is a message."],
 
     8 : ["Today we reshape the world. Our motherland is lead by cowards and weaklings. In time, the Americans and their NATO puppets will bring the Soviet Union to its knees. We will break the stalemate, then burn them both to the ground. They sleep soundly at night, knowing they put on a good parade - but they lack the will to do what must be done. The superpowers will fall, victims of their own greed and corruption. We will rebuild Greater Russia from the ashes.",
         "Comrades, the United States and its allies have slowly consumed that which is dear to us. Our leaders continue to weaken under this threat. It is the MORAL duty of `Perseus` to act when they will not. Soon we will possess an American Nuclear Bomb, the key to unlock their entire Greenlight arsenal. Once we control the green light arsenal we will detonate them all from the safety of Solvetsky",
@@ -265,7 +265,7 @@ gifs = {
     7:  [
         "https://user-images.githubusercontent.com/65482473/154327695-8c785be0-78a0-41d2-8b77-074e5772cc47.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032336-841824af-a086-4d1b-91f3-35bf5e7d4d36.gif",
 
         "https://user-images.githubusercontent.com/65482473/154327933-6a0d3189-dcc9-4523-8c36-aa89197a4a32.gif",
 
@@ -279,37 +279,37 @@ gifs = {
 
         "https://user-images.githubusercontent.com/65482473/154328417-46e1fad0-6961-4855-9e81-1dd34f4470de.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032145-07d0ddd2-0977-434e-9925-52986d6504ab.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158031948-eace8299-05b2-4c0e-ae96-995f155807bc.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158031983-27491ada-438a-456a-b897-3d32e9af59ce.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032002-342d2778-d25a-4bec-8dc4-bce93d1b1fca.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032015-e753f65d-719b-4c09-8b79-6f39b3585473.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032031-ad8d71a3-2113-4b23-8da5-4a37e1e7f1a1.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032052-5f67c681-ad84-4269-b747-45d3ea59a46c.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032072-404d8e20-5f87-49bb-80fe-eb21bc4bd1fb.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032093-fba15726-164b-4652-a4ff-0e9c2258c9e4.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032108-1b6e0b48-8ed2-42aa-8dd2-224e4b3bade9.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032123-0b871135-3abf-4b68-a8a1-cd5f3c23156f.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032165-2b092835-6398-422b-8da3-940275a14c49.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032179-20e1e864-aa9c-4cf0-902f-280da9d4bc74.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032204-82431528-d62d-4cfa-adec-4011f72f5379.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032246-d8388213-b4b0-4e60-bac1-e958edf63991.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/158032299-7aa05eca-7767-40f9-b674-8bfacc56692c.gif",
 
         "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif"
         ],
