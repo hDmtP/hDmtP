@@ -1,3 +1,4 @@
+from datetime import datetime
 import random
 
 quotes = {
@@ -352,6 +353,7 @@ gifs = {
 
 }
 
+"""
 key = random.randint(0, len(quotes)-1)
 value = random.randint(0, len(quotes[key])-1)
 
@@ -360,6 +362,31 @@ def choice():
 
 def choice_gif():
     return gifs[key][value]
+
+print(f"key: {key}\n\nvalue: {value}\n\nlen(quotes[key]): {len(quotes[key])}\n\nlen(gifs[key]): {len(gifs[key])}\n\n\n")
+
+assert len(quotes[key]) == len(gifs[key])
+print("everything okay!!")
+"""
+
+the_date = int(datetime.now().strftime("%d"))
+the_time = int(datetime.now().strftime("%H"))
+
+key = ((the_date % len(quotes)) - 1)
+
+value = ((the_time % len(gifs[key])) - 1)
+
+lquotes = quotes[key]
+lgifs = gifs[key]
+lquotes = (random.shuffle(lquotes))
+lgifs = (random.shuffle(lgifs))
+
+
+def choice():
+    return lquotes[value]
+
+def choice_gif():
+    return lgifs[value]
 
 print(f"key: {key}\n\nvalue: {value}\n\nlen(quotes[key]): {len(quotes[key])}\n\nlen(gifs[key]): {len(gifs[key])}\n\n\n")
 
