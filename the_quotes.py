@@ -368,7 +368,6 @@ print(f"key: {key}\n\nvalue: {value}\n\nlen(quotes[key]): {len(quotes[key])}\n\n
 assert len(quotes[key]) == len(gifs[key])
 print("everything okay!!")
 """
-
 the_date = int(datetime.now().strftime("%d"))
 the_time = int(datetime.now().strftime("%H"))
 
@@ -376,17 +375,12 @@ key = ((the_date % len(quotes)) - 1)
 
 value = ((the_time % len(gifs[key])) - 1)
 
-lquotes = quotes[key]
-lgifs = gifs[key]
-lquotes = (random.shuffle(lquotes))
-lgifs = (random.shuffle(lgifs))
-
 
 def choice():
-    return lquotes[value]
+    return quotes[key][value]
 
 def choice_gif():
-    return lgifs[value]
+    return gifs[key][value]
 
 print(f"key: {key}\n\nvalue: {value}\n\nlen(quotes[key]): {len(quotes[key])}\n\nlen(gifs[key]): {len(gifs[key])}\n\n\n")
 
