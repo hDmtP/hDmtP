@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"What happens here today will change the world forever. Nothing can stop this. Not even you."
+"This deal will generate millions for our cause. Money can buy many things. Even power. The road to our future begins here, my friend."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/154327695-8c785be0-78a0-41d2-8b77-074e5772cc47.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032336-841824af-a086-4d1b-91f3-35bf5e7d4d36.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-03-18**| **06:53:48.334711** | **1**
+**2022-03-18**| **08:05:15.714067** | **1**
