@@ -371,14 +371,9 @@ print("everything okay!!")
 the_date = int(datetime.now().strftime("%d"))
 the_time = int(datetime.now().strftime("%H"))
 
-key = ((the_date % len(quotes)) - 1)
-if key == -1:
-    key = 0
+key = ((the_date % len(quotes)))
 
-value = ((the_time % len(gifs[key])) - 1)
-if value == -1:
-    value = 0
-
+value = ((the_time % len(gifs[key])))
 
 def choice():
     return quotes[key][value]
