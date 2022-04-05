@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px"></h2>
 <h3 align="center" margin=30px>
-"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
+"It's Weaver. He's burnt."
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-04-06**| **00:23:10.999527** | **1**
+**2022-04-06**| **00:51:58.483323** | **1**
