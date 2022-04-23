@@ -316,11 +316,11 @@ gifs = {
         ],
 
     8:  [
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/164874753-97119786-80ad-4441-a7af-99d83cc26b2a.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif",
+        "https://user-images.githubusercontent.com/65482473/164874777-00824300-76cb-498f-9a79-218bf81cf6bc.gif",
 
-        "https://user-images.githubusercontent.com/65482473/137200814-7c1f94cc-d38b-4ec1-a93f-4b16c8768256.gif"
+        "https://user-images.githubusercontent.com/65482473/164874796-887ca3c8-e7bf-4892-88c9-a3be373bbc74.gif"
         ],
 
     9:  [
