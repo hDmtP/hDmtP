@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Well at least the world didn't end. Hit it."
+"Do NOT trust Shepherd- I say again, DO NOT TRUST SHEPHERD! Soap! GET DOWN!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153424540-e25ca93c-97d3-4e79-8d53-77a0b36dcd4b.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153600635-2c404723-88ed-4735-85bd-86f202209973.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-07-31**| **14:29:34.298521** | **0**
+**2022-07-31**| **15:46:08.991779** | **0**
