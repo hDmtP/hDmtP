@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"It doesn't take the most powerful nations on Earth to create the next global conflict. Just the will of a single man."
+"You think I am mad, but soon, you shall see, that every move, every strike, was meant to bring us to this."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032031-ad8d71a3-2113-4b23-8da5-4a37e1e7f1a1.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032052-5f67c681-ad84-4269-b747-45d3ea59a46c.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-08-27**| **18:38:14.425198** | **1**
+**2022-08-27**| **19:43:35.649962** | **1**
