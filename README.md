@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Then we have the Sten. This lightweight SMG is quite the little firecracker, just the ticket for the some close-quarters butchering."
+"Lastly, the GPMG, a light machine gun that can drop an entire squad faster than you can blink, mate."
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-08-29**| **20:45:22.981368** | **2**
+**2022-08-29**| **21:51:37.067540** | **2**
