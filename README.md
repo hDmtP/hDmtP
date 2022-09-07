@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"You think I am mad, but soon, you shall see, that every move, every strike, was meant to bring us to this."
+"The symbols you have always looked to for strength, are smoldering in ruins. This is what your greed has brought you."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032052-5f67c681-ad84-4269-b747-45d3ea59a46c.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032072-404d8e20-5f87-49bb-80fe-eb21bc4bd1fb.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-09-07**| **20:26:35.575240** | **2**
+**2022-09-07**| **20:49:58.404223** | **2**
