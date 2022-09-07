@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"For Zakhaev."
+"Price, one day, you're going to find that cuts both ways."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158031948-eace8299-05b2-4c0e-ae96-995f155807bc.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158031983-27491ada-438a-456a-b897-3d32e9af59ce.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-09-07**| **14:30:45.169581** | **2**
+**2022-09-07**| **15:48:29.616407** | **2**
