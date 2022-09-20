@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Shit, son."
+"You know our laws, son. You fail to protect your brothers...you join them in death."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/145676647-caf58524-d42c-4b15-a30a-161882bbf491.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/145708582-55728f4a-7a17-4d53-b868-a149626fa41b.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-09-21**| **04:26:43.443630** | **1**
+**2022-09-21**| **04:53:42.077982** | **1**
