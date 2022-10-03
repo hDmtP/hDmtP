@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"I DECIDE WHAT IS NECESSARY!"
+"Your life will be consumed by absolute losses, then and only then you will understand what you have done to me."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153223410-fb8fc82a-88f2-4fa3-9bd4-b789c29283d4.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153223861-45df2579-77f0-4869-9f81-5fd0c7022e1c.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-10-03**| **19:07:47.204616** | **1**
+**2022-10-03**| **20:04:58.334160** | **1**
