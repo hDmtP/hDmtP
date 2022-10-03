@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"It matters not, I am one step ahead of him"
+"We will regroup at the citadel"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153223229-9bf8ea98-cab9-465b-a88e-875d9ea273b2.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153223303-c0e40d84-68e0-42c1-b4c0-8e8bdaad4141.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-10-03**| **08:56:23.707639** | **1**
+**2022-10-03**| **10:21:20.750425** | **1**
