@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"So Makarov is the prize."
+"Russia will take all of Europe, even if it must stand upon a pile of ashes. I want the launch codes, Mr. President."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/154327933-6a0d3189-dcc9-4523-8c36-aa89197a4a32.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/154328132-4c7d5320-70d8-40fa-a760-f6051e67e018.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-10-17**| **07:30:11.299997** | **1**
+**2022-10-17**| **10:05:10.535268** | **1**
