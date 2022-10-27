@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"You know who I am? Then you know what I want."
+"Captain Price - Ад ждет тебя. (Hell awaits you.)"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032108-1b6e0b48-8ed2-42aa-8dd2-224e4b3bade9.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032123-0b871135-3abf-4b68-a8a1-cd5f3c23156f.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-10-27**| **22:31:45.850535** | **1**
+**2022-10-27**| **23:54:41.993720** | **1**
