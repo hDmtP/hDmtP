@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Like it ended for Captain MacTavish? Tell me, Price. How long did it take him to die?"
+"I've destroyed your world piece by piece. It's only a matter of time until I find you."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032246-d8388213-b4b0-4e60-bac1-e958edf63991.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032299-7aa05eca-7767-40f9-b674-8bfacc56692c.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-08**| **04:28:12.187321** | **1**
+**2022-11-08**| **04:57:00.060541** | **1**
