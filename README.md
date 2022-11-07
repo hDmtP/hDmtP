@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Yuri, my friend. You never should have come here."
+"Goodbye, Captain Price."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/154328321-1e1e6767-0719-40d6-8f5f-1ee2067c9f5b.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/154328417-46e1fad0-6961-4855-9e81-1dd34f4470de.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-07**| **12:26:42.483895** | **1**
+**2022-11-07**| **12:48:02.457771** | **1**
