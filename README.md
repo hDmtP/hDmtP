@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"С нами бог. Remember - no Russian."
+"For Zakhaev."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032145-07d0ddd2-0977-434e-9925-52986d6504ab.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158031948-eace8299-05b2-4c0e-ae96-995f155807bc.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-07**| **14:29:19.768286** | **1**
+**2022-11-07**| **14:55:02.494721** | **1**
