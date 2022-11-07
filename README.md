@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Price, one day, you're going to find that cuts both ways."
+"Shepherd is using Site Hotel Bravo. You know where it is. I'll see you in hell."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158031983-27491ada-438a-456a-b897-3d32e9af59ce.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032002-342d2778-d25a-4bec-8dc4-bce93d1b1fca.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-07**| **16:24:31.702730** | **1**
+**2022-11-07**| **16:42:03.544031** | **1**
