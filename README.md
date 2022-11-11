@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
+"All right. Let's top these bastards before they kill the old man."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153423922-20f9e239-303b-4821-8c31-887fb3c521cf.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153424059-238a14bd-8f4a-437c-9725-b6b5434febb0.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-12**| **02:27:27.155586** | **0**
+**2022-11-12**| **02:48:45.085482** | **0**
