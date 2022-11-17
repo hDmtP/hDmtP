@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Understand, Yuri: this is only the beginning."
+"I see...this is what we are dealing with, brothers. A stubborn old man, hopelessly out of step with the changing world.You too, will change. Are you listening?"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032179-20e1e864-aa9c-4cf0-902f-280da9d4bc74.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032204-82431528-d62d-4cfa-adec-4011f72f5379.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-18**| **02:24:08.920172** | **0**
+**2022-11-18**| **02:41:18.976286** | **0**
