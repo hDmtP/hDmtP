@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Prisoner 627. I'm coming for you, Makarov."
+"My war ends with you."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153600905-fdae62f6-62de-4906-bc70-22ed182aa9fa.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153600963-4c7f540c-58a1-4008-9f5e-4b731f7ae0eb.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-21**| **20:21:57.271518** | **0**
+**2022-11-21**| **20:37:38.841761** | **0**
