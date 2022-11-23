@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"You suffer with me!"
+"Come my friends. 'Tis not too late to seek a newer world."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153223945-04669174-0fe4-4463-9b45-7aa8f746b6fe.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153222731-3b916d10-c5e7-4ace-80cc-90e195145100.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-11-23**| **12:49:52.734468** | **0**
+**2022-11-23**| **13:48:27.682437** | **0**
