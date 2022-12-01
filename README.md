@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Right… What the hell kind of name is Soap, eh? How'd a muppet like you pass Selection?"
+"Nikolai's in hell right now, we're gonna walk him out. We take care of our friends. Let's move."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153423700-d096930d-b353-42bc-a3c9-7238a7d4f7b9.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153423922-20f9e239-303b-4821-8c31-887fb3c521cf.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-12-01**| **06:49:06.079316** | **2**
+**2022-12-01**| **08:37:44.026919** | **2**
