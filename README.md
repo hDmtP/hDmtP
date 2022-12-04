@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"The men and I had fought through the most bitter of winters on the Eastern Front, but we were no strangers to the cold. Even now, the blood in my veins chills when I think back to the events of that day... Far, far from home..."
+"Today, my comrades... Vorkuta... BURNS!!!"
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/152934643-9090bef3-70b1-41ba-be2f-0f33aae6078c.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/152934372-2be1df7c-b905-43ea-a422-be2319c06999.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-12-04**| **22:33:25.504798** | **1**
+**2022-12-04**| **23:45:21.975628** | **1**
