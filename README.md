@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Captain Price - Ад ждет тебя. (Hell awaits you.)"
+"Today, we show the world our true strength. Perhaps it will give you some as well."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032123-0b871135-3abf-4b68-a8a1-cd5f3c23156f.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032165-2b092835-6398-422b-8da3-940275a14c49.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-12-08**| **00:24:57.511844** | **2**
+**2022-12-08**| **00:40:03.112205** | **2**
