@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"Today, we show the world our true strength. Perhaps it will give you some as well."
+"Understand, Yuri: this is only the beginning."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/158032165-2b092835-6398-422b-8da3-940275a14c49.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/158032179-20e1e864-aa9c-4cf0-902f-280da9d4bc74.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-12-18**| **00:44:43.830468** | **1**
+**2022-12-18**| **01:42:13.933459** | **1**
