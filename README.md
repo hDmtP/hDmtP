@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"We're gonna have one shot to grab the President before he gives up the launch codes and Makarov turns Europe into glass. Once we get boots on the ground, it's going to get lively down there."
+"Prisoner 627. I'm coming for you, Makarov."
 </h3>
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65482473/153600836-c8eff82a-8bc6-4ff0-b71d-14cf7ae376ed.gif" align="center">
+<img src="https://user-images.githubusercontent.com/65482473/153600905-fdae62f6-62de-4906-bc70-22ed182aa9fa.gif" align="center">
 </p>
 
 <hr>
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-12-21**| **18:46:48.554681** | **1**
+**2022-12-21**| **19:42:17.314303** | **1**
