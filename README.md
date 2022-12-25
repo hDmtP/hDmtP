@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there<img src="https://user-images.githubusercontent.com/88626025/135751180-b3d128a5-ba6f-496d-a6d0-1503b568ee88.gif" width="30px" height="30px"></h2>
 <h3 align="center" margin=30px>
-"You tried to make me KILL MY OWN PRESIDENT!"
+"I'd given up hope of ever gettin' out. But Viktor Reznov found a way."
 </h3>
 <br>
 
@@ -29,4 +29,4 @@
 
 Today's Date |Time last updated      | Contributions Today
 :--------------:|:----------------:|:-------------:
-**2022-12-25**| **22:45:04.220857** | **1**
+**2022-12-25**| **23:44:56.730396** | **1**
