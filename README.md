@@ -23,13 +23,3 @@
 <h2> Visitor count 👀</h2>
 
 <p><img src="https://profile-counter.glitch.me/{hdmtp}/count.svg" alt="hdmtp :: Visitor's Count" /></p>
-
-<br>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hdmtp&show_icons=true&theme=radical) 
-
-<hr>
-
-Today's Date |Time last updated      | Contributions Today
-:--------------:|:----------------:|:-------------:
-**2023-01-06**| **04:46:06.567985** | **2**
